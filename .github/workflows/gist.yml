@@ -2,10 +2,11 @@ name: Run Gist
 
 on:
   schedule:
-    - cron: '50 15 * * *'
+    - cron: '50 16 * * *'
     - cron: '50 21 * * *'
     - cron: '50 3 * * *'
     - cron: '50 9 * * *'
+  workflow_dispatch:
 
 jobs:
   run-python-script:
