@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/tr
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss.txt
 https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
-https://github.com/free-proxy-nodes/free-nodes/blob/main/README.md
 https://free-clash-ssr.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
 https://free-clash-ssr.github.io/uploads/{Y}/{m}/1-{Ymd}.yaml
 https://free-clash-ssr.github.io/uploads/{Y}/{m}/2-{Ymd}.yaml
