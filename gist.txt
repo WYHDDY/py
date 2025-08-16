@@ -9,11 +9,14 @@ https://gist.github.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/b16e46cae912
 https://gist.github.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/8add9ab17a59448f6555a3b3b76e0f094404ee3c/all.yaml
 https://gist.github.com/Zhaodaidai/bd883c649ae8ed55ade3297f54b4c7cd/raw/6fb1675cb0816c2aaf8c12533ac552f2b87b3f33/all.yaml
 https://gist.github.com/anmingyu777/c9260ab02858db6e207a31c32372e920/raw/24dd51b620db2e2d29cf87dbcb5a830f6fad1002/all.yaml
+https://gist.github.com/blackbell168/0d176c8eae45a9a15726def21eb7eeaa/raw/fda2bca64b26ac0ef05c99109c7d092c5b946b46/all.yaml
 https://gist.github.com/fcremer/8542e223cdd0ff01905aa79b439927bb/raw/36f30f1f10a9b4224046660d4dfbe9f1fdef1576/aixtraball.yaml
 https://gist.github.com/ggzhzc/02cce0b08cd246d3bc4e97184ad7fdaa/raw/8ad5a90153a84fc5373fe0a74f2809e6c9f5eeb5/all.yaml
 https://gist.github.com/ghb110/8bfd4da422817cc293c1cfd0bec99b72/raw/317e9ba2ba7353971e1acf472a1d6dc5cac679fc/all.yaml
+https://gist.github.com/iso8434/fb962ef570ba339ffa91cb7d644f0218/raw/105182406dbc3ae2c0114bdab495968211078943/all.yaml
 https://gist.github.com/lgl1996521/44aac049c8e1888e893a801d0deff0aa/raw/e2da51db5d3ce4f30eef07497555a75b4c7bcc11/all.yaml
 https://gist.github.com/liwoyuandiane/1790c326bb7a38977a552913b5aa9286/raw/67ae7b38d0a09b52d5b32081a7ebac52945cd742/all.yaml
+https://gist.github.com/pickarm/b3e5da30ce54d04275bfc6d98e83f951/raw/c4cb84e89a940e7a89e4bab78bf2ea2819b96a13/all.yaml
 https://gist.github.com/treeman-c/99c566d389f0d00e1afebbc7755ee8e9/raw/ab004a33d03ffea46443358b2ffea03e19468427/all.yaml
 https://gist.github.com/xiaoruibest/7caf90aaeff4d8d46d5c10a7a968a55e/raw/3fdefdeeac2e2babf59e2d4310255cbb7643b103/all.yaml
 https://gist.github.com/xuehu2319/56d8962c13b41942989100c0b404994d/raw/68ab25570a8507da6f2be64a80c1c56b163049d1/all.yaml
