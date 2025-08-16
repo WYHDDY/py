@@ -4,7 +4,7 @@ https://gist.github.com/JunfenZhang1/ad9a1adea520b1a4582e40c9073e6d0d/raw/21b44b
 https://gist.github.com/MCaveMan/9d43df3cba95a9e85825eee1eab05644/raw/a56e4be6e7f9a8e6d0f06e2a47263575054f23b0/all.yaml
 https://gist.github.com/Methellli/28a02ed3c3085510415c07eb9fc238a2/raw/22ab3c50333890c47579fac974848e00508f97f8/all.yaml
 https://gist.github.com/OREGYR/5adf94d44a2000ff17d434d64e960bd1/raw/3a344aa08e36ae24cd7ddb4b4cc347deca934007/all.yaml
-https://gist.github.com/SAKURA-YUMI/c48036858cb3ee9c72a1ddde3846332f/raw/f91922913e6dcf76e035f102d08bc11ab530f0ff/all.yaml
+https://gist.github.com/SAKURA-YUMI/c48036858cb3ee9c72a1ddde3846332f/raw/6f61b1bbbd051e2e944c154d715e4d3d48d4da6c/all.yaml
 https://gist.github.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/e91a07d4feef892891898853c8d45f190a111ec4/all.yaml
 https://gist.github.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/2e51aeaf6560d30228e3da9897e7b5ff3072db8f/all.yaml
 https://gist.github.com/Zhaodaidai/bd883c649ae8ed55ade3297f54b4c7cd/raw/4e9a2e71350e68ca549f780c59a9166f75b622fc/all.yaml
@@ -14,8 +14,6 @@ https://gist.github.com/ggzhzc/02cce0b08cd246d3bc4e97184ad7fdaa/raw/8ad5a90153a8
 https://gist.github.com/ghb110/8bfd4da422817cc293c1cfd0bec99b72/raw/317e9ba2ba7353971e1acf472a1d6dc5cac679fc/all.yaml
 https://gist.github.com/lgl1996521/44aac049c8e1888e893a801d0deff0aa/raw/e2da51db5d3ce4f30eef07497555a75b4c7bcc11/all.yaml
 https://gist.github.com/liwoyuandiane/1790c326bb7a38977a552913b5aa9286/raw/67ae7b38d0a09b52d5b32081a7ebac52945cd742/all.yaml
-https://gist.github.com/treeman-c/99c566d389f0d00e1afebbc7755ee8e9/raw/ab004a33d03ffea46443358b2ffea03e19468427/all.yaml
 https://gist.github.com/xiaoruibest/7caf90aaeff4d8d46d5c10a7a968a55e/raw/3fdefdeeac2e2babf59e2d4310255cbb7643b103/all.yaml
 https://gist.github.com/xuehu2319/56d8962c13b41942989100c0b404994d/raw/518cc0518aa73bcc8ae667a136af0b7cd1e9368c/all.yaml
 https://gist.github.com/yinqf/66e572da39489c1b2306aa42c88ec6cf/raw/0cdca71702884a3d7176f0555c5736981f2748be/all.yaml
-https://gist.github.com/yuyichen/7dad4d1fbc00ba9b42006b7d083079e0/raw/79c8f42be1cdb64265316605303d55b7310c2f6d/all.yaml
