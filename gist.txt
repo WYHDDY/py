@@ -1,10 +1,10 @@
 https://gist.github.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/0f8b3b3e5e6c6a02bcf62e456428f33515f2f868/all.yaml
 https://gist.github.com/JunfenZhang1/ad9a1adea520b1a4582e40c9073e6d0d/raw/bae0e959bd02168a9888d7bdeeb8a1a001f7b83b/all.yaml
 https://gist.github.com/Methellli/28a02ed3c3085510415c07eb9fc238a2/raw/22ab3c50333890c47579fac974848e00508f97f8/all.yaml
-https://gist.github.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/f09a22f10b44cede727219df3cb66741de82b9c7/all.yaml
-https://gist.github.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/8ceb7473cd3e036ade28eefd8eb92c28dd337eea/all.yaml
+https://gist.github.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/2374b80bdf2d93056cd3b25e18a5538774f12373/all.yaml
+https://gist.github.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/0e84986025679746ccc8c649d59b72da46c7220a/all.yaml
+https://gist.github.com/anmingyu777/c9260ab02858db6e207a31c32372e920/raw/24dd51b620db2e2d29cf87dbcb5a830f6fad1002/all.yaml
 https://gist.github.com/fcremer/8542e223cdd0ff01905aa79b439927bb/raw/36f30f1f10a9b4224046660d4dfbe9f1fdef1576/aixtraball.yaml
 https://gist.github.com/liwoyuandiane/1790c326bb7a38977a552913b5aa9286/raw/67ae7b38d0a09b52d5b32081a7ebac52945cd742/all.yaml
-https://gist.github.com/xiaoruibest/7caf90aaeff4d8d46d5c10a7a968a55e/raw/3fdefdeeac2e2babf59e2d4310255cbb7643b103/all.yaml
-https://gist.github.com/xuehu2319/56d8962c13b41942989100c0b404994d/raw/e25442902778c619a203c6849c12be66f6c22ac1/all.yaml
-https://gist.github.com/yinqf/66e572da39489c1b2306aa42c88ec6cf/raw/4d83083b93c99b2d232d0b0aa31de8d489d42d9d/all.yaml
+https://gist.github.com/xuehu2319/56d8962c13b41942989100c0b404994d/raw/68ab25570a8507da6f2be64a80c1c56b163049d1/all.yaml
+https://gist.github.com/yinqf/66e572da39489c1b2306aa42c88ec6cf/raw/b7c054c69c285fce7d3a263f3ffbe510d598bad4/all.yaml
